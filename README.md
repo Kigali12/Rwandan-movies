@@ -123,10 +123,12 @@ In the table below is listed all the requirement which are not implemented in th
 
 ## General Use Case(Actors, features)
 
-![](/images/uc.png)
+![](![mysql-tables](https://github.com/user-attachments/assets/c02c94d8-76b2-408c-bd15-1600cdb4294d)
+)
 
 # Class Diagram
-![](/images/cd.png)
+![](![cd](https://github.com/user-attachments/assets/bd359448-032e-4372-a712-532f3b4042fa)
+)
 
 
 # Mysql tables database
@@ -148,12 +150,14 @@ At the picture below you can see the tables, columns, types and relationships:
 <br>
 
 ## Login Page
-![](/images/login.PNG)
+![](![login](https://github.com/user-attachments/assets/7b01f88f-e3fb-4e71-ba01-5e45bfb6c38e)
+)
 
 <br>
 
 ## Main page after loging in into the account
-![](/images/main.PNG)
+![](![search](https://github.com/user-attachments/assets/210bf58c-fcad-4688-89c5-5d5321cf8dad)
+)
 
 <br>
 
